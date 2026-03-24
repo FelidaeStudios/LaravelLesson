@@ -16,7 +16,7 @@
             <div class="flex h-16 items-center justify-between">
                 <div class="flex items-center">
                     <div class="flex-shrink-0">
-                        <img class="h-8 w-8" src="https://laracasts.com/images/logo/logo-triangle.svg" alt="Your Company">
+                        <img class="h-8 w-8" src="https://static.wixstatic.com/media/0c64d1_88101b76154d4878982e15e43ba356e5~mv2.jpg/v1/fill/w_190,h_190,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Pandora_edited.jpg" alt="Your Company">
                     </div>
                     <div class="hidden md:block">
                         <div class="ml-10 flex items-baseline space-x-4">
@@ -42,7 +42,7 @@
                                 <button type="button" class="relative flex max-w-xs items-center rounded-full bg-gray-800 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
                                     <span class="absolute -inset-1.5"></span>
                                     <span class="sr-only">Open user menu</span>
-                                    <img class="h-8 w-8 rounded-full" src="https://laracasts.com/images/lary-ai-face.svg" alt="">
+                                    <img class="h-8 w-8 rounded-full" src="https://static.wixstatic.com/media/0c64d1_88101b76154d4878982e15e43ba356e5~mv2.jpg/v1/fill/w_190,h_190,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Pandora_edited.jpg" alt="">
                                 </button>
                             </div>
                         </div>
@@ -77,7 +77,7 @@
             <div class="border-t border-gray-700 pb-3 pt-4">
                 <div class="flex items-center px-5">
                     <div class="flex-shrink-0">
-                        <img class="h-10 w-10 rounded-full" src="https://laracasts.com/images/lary-ai-face.svg" alt="">
+                        <img class="h-10 w-10 rounded-full" src="https://static.wixstatic.com/media/0c64d1_88101b76154d4878982e15e43ba356e5~mv2.jpg/v1/fill/w_190,h_190,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Pandora_edited.jpg" alt="">
                     </div>
                     <div class="ml-3">
                         <div class="text-base font-medium leading-none text-white">Lary Robot</div>
