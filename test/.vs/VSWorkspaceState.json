@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\Providers",
-    "\\database",
-    "\\database\\factories",
-    "\\database\\migrations",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
     "\\resources",
     "\\resources\\views",
     "\\resources\\views\\Components",
+    "\\resources\\views\\jobs",
+    "\\resources\\views\\vendor",
     "\\routes"
   ],
-  "SelectedNode": "\\app\\Providers\\AppServiceProvider.php",
+  "SelectedNode": "\\app\\Http\\Controllers\\JobController.php",
   "PreviewInSolutionExplorer": false
 }
